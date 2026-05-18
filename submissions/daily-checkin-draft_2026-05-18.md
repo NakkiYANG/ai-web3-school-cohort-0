@@ -15,3 +15,9 @@
 **参考链接**
 - https://aiweb3.school/learning-agent.zh.txt
 - https://aiweb3.school/zh/handbook/
+
+## AI+NFT知识获取：
+- 核心逻辑：AI 负责生成/增强/交互；NFT 提供数字身份、所有权记录与分发机制。
+- 价值本质：通过链上机制实现确权、资产管理、社区协作，而非单纯“生成速度”。
+- 风险：训练数据合规、版权边界不清、缺乏持续使用场景会削弱长期价值。
+- 来源：https://aiweb3.school/zh/ai-nft/
