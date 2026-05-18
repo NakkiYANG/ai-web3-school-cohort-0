@@ -1,0 +1,13 @@
+# Secrets / local env
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
