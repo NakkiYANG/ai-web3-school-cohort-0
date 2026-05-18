@@ -1,7 +1,7 @@
 # Week 1 — MVP checklist (Security Audit Assistant)
 
 ## Day 1 — Scope & report format
-- [ ] Target contract type: _TBD_ (ERC20 / Vault / NFT / etc.)
+- [x] Target contract type: **NFT**
 - [ ] Threat model: what we care about (fund loss, privilege abuse, DoS)
 - [ ] Report schema:
   - Finding title
