@@ -4,13 +4,14 @@
 - [x] Target contract type: **NFT**
 - [ ] Threat model: what we care about (fund loss, privilege abuse, DoS)
 - [ ] Report schema:
-  - Finding title
-  - Severity: High / Medium / Low / Info
-  - Evidence: line numbers / code quote
-  - Impact
-  - Recommendation / Fix
+- Finding title
+- Severity: High / Medium / Low / Info
+- Evidence: line numbers / code quote
+- Impact
+- Recommendation / Fix
 
 ## Day 2 — Snippet set
+- [x] Add 1 audit finding to `tasks/audit-findings/`
 - [ ] Add 3–5 vulnerable snippets under `experiments/snippets/`
 - [ ] Add expected findings under `experiments/snippets/expected/`
 
